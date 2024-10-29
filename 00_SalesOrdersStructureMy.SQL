@@ -1,4 +1,4 @@
-
+CREATE DATABASE SalesOrdersExample;
 
 use SalesOrdersExample;
 
